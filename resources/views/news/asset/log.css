@@ -1,0 +1,92 @@
+body{
+	margin: 60px 100px 60px 100px;
+	background-image: url(img/bg3.png);
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+	font-family: Adobe Garamond Pro;
+}
+fieldset{
+	margin-top: 20vh;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    background-color: hsla(0,0%,100%,.92);
+    width: 363px;
+    padding: 50px 0;
+    border-radius: 4px;
+}
+.logo{
+	width: 40%;
+}
+h2{
+	color: #757c80;
+}
+.for{
+	color: #666;
+	text-decoration: none;
+}
+.sign{
+	color: #fff;
+	text-decoration: none;
+}
+input[type="text"], input[type="password"], input[type="email"]{
+	width: 290px;
+    height: 40px;
+    padding: 7px 7px 7px 7px;
+}
+.user{
+	border-width: 1px;
+	border-radius: 4px 4px 0 0;
+	padding: 4px 4px 4px 4px;
+}
+.sandi{
+	border-width: 1px;
+	border-radius: 0 0 4px 4px;
+}
+button{
+	border: none;
+	border-radius: 4px;
+	cursor: pointer;
+	color: #fff;
+}
+.log{
+	margin: 0 auto 8px;
+    width: 300px;
+    height: 40px;
+    line-height: 40px;
+    background-color: #25c6ff;
+    color: #fff;
+    font-weight: 700;
+    outline: none;
+}
+.daftar{
+	background-color: #6d7084;
+	border-radius: 6px;
+	margin: 0 auto 8px;
+    width: 300px;
+    height: 40px;
+    line-height: 40px;
+    color: #fff;
+    font-weight: 700;
+    outline: none;
+    text-decoration: none;
+}
+.register{
+	background-color: lime;
+	border-radius: 6px;
+	border: none;
+	margin: 0 auto 8px;
+    width: 300px;
+    height: 40px;
+    line-height: 40px;
+    color: #fff;
+}
+.batas{
+	display: inline-block;
+	width: 70px;
+	height:15px;
+}
+.p{
+	display: inline-block;
+}

@@ -1,0 +1,35 @@
+
+  
+body {
+            font-family:arial,segoe ui;   
+            background-color: ;
+}
+  
+
+     
+
+  
+.main {
+            
+      
+}
+  
+   
+  
+.content {
+            float:left;
+            width:60%;
+            background:;
+            padding:%;
+}
+  
+.sidebar {
+            float:right;
+            width:26%;
+            background:;
+            padding:%;
+            max-height: ;
+  
+}          
+  
+.clear {clear:both}
